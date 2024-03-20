@@ -1,2 +1,2 @@
 # python_programming
-## Project related to c++ console program in my coding journey in college..
+## Project related to Python Language in my coding journey in college..
