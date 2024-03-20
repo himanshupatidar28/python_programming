@@ -1,0 +1,14 @@
+Hey how are you this is demo
+text file placed here...
+.
+.
+.
+.
+.
+*
+**
+***
+****
+*****
+******
+
